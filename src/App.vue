@@ -4,7 +4,7 @@
       <router-link to="/translate-game">GAME</router-link> |
       <router-link to="/translate-administration">ADMIN</router-link>
     </div>
-    <router-view/>
+    <router-view />
   </div>
 </template>
 
